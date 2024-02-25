@@ -1,4 +1,4 @@
-# VPC creation
+# VPC creation done succesfilluy
 resource "aws_vpc" "myvpc" {
     cidr_block = var.vpc_cidr
 }
